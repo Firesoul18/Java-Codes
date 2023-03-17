@@ -1,0 +1,9 @@
+Eligible Seekers for job id- 1 and title- Android Developer: 
+Seeker Id: 2 Seeker Name: Rihan Skill: Kotlin
+Seeker Id: 1 Seeker Name: Adam Skill: Java
+Seeker Id: 2 Seeker Name: Rihan Skill: Java
+Eligible Seekers for job id- 2 and title- SalesForce Intern: 
+Seeker Id: 2 Seeker Name: Rihan Skill: Scala
+Seeker Id: 1 Seeker Name: Adam Skill: Java
+Seeker Id: 2 Seeker Name: Rihan Skill: Java
+Eligible Seekers for job id- 3 and title- DBMS Scientist: 
