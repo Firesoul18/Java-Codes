@@ -1,2 +1,0 @@
-1, Adam, USA, 1, Java
-2, Rihan, UK, 4, Java, SalesForce, Kotlin, Scala
