@@ -29,7 +29,7 @@ class BinarySearch{
                     break;
                 }
             }
-            System.out.println("first= "+first+" mid= "+array[mid]+" last= "+last);
+            // System.out.println("first= "+first+" mid= "+array[mid]+" last= "+last);
             if(array[mid]==num){
                 System.out.println("Found item on index " + mid);
                 break;
